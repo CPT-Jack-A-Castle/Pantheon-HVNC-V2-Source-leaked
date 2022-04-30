@@ -21,7 +21,7 @@ Damn dude how low you can go?
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-I would kindly ask you ***not to bother me*** with questions like it won't compile help
+I would kindly ask you ***not to bother me*** with questions like it won't compile help.
 or if you get that obviuos error like damn resource is missing heeeeelp - simply ***I don't care(especially for statements I can't wait, I want and similar. Feel free to purchase garbage mentioned above or reverse yourself).***
 ***Im not*** posting this so kids could play hackers, ***nor do I support reversed projects.***
 Anyways if one decide to msg me with similar bs, please before you do download [ILSpy](https://github.com/icsharpcode/ILSpy/).
